@@ -28,5 +28,4 @@ Create a `postgres` database from schema and load tables. Produce schema from an
 
 
 <br>
-<br>
-\*\*\*UC Berkeley Extension Data Analysis Project 2
+*** UC Berkeley Extension Data Analysis Project 2
