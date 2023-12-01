@@ -9,8 +9,8 @@ Create a `postgres` database from schema and load tables. Produce schema from an
 ## Work
 
 - [Project Notebook](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/ETL_Mini_Project_Code.ipynb) - Extract and transform starter files
-- [Entity Relationship Diagram(ERD)](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Images/QDBD_schema_code.PNG)
-- [ERD Code](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Images/Crowdfunding_Schema.PNG)
+- [Entity Relationship Diagram(ERD)](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Images/Crowdfunding_Schema.PNG)
+- [ERD Code](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Images/QDBD_schema_code.PNG)
 - [SQL Schema](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Resources/Schema.sql) - Database build
 - [Query Tables](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Resources/table_query.sql) - Check database tables
 
