@@ -6,7 +6,7 @@ Build an ETL pipeline using `Python` and `Pandas` to extract and transform the d
 
 Create a `postgres` database from schema and load tables. Produce schema from an ERD generator on the website: [QuickDatabaseDiagrams.com](quickdatabasediagrams.com)
 
-## Entity Relationship Diagram
+#### Entity Relationship Diagram
 ![ERD Image](Images/Crowdfunding_Schema.PNG)  
   
 ## Work
