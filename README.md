@@ -6,6 +6,9 @@ Build an ETL pipeline using `Python` and `Pandas` to extract and transform the d
 
 Create a `postgres` database from schema and load tables. Produce schema from an ERD generator on the website: [QuickDatabaseDiagrams.com](quickdatabasediagrams.com)
 
+## Entity Relationship Diagram
+![ERD Image](Images/Crowdfunding_Schema.PNG)  
+  
 ## Work
 
 - [Project Notebook](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/ETL_Mini_Project_Code.ipynb) - Extract and transform starter files
@@ -23,7 +26,7 @@ Create a `postgres` database from schema and load tables. Produce schema from an
 
 ## Starter Files
 
-- [contacts ](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Resources/contacts.xlsx)
+- [contacts](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Resources/contacts.xlsx)
 - [crowdfunding](https://github.com/StarkArk/Crowdfunding_ETL_Project/blob/main/Resources/crowdfunding.xlsx)
 
 
